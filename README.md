@@ -5,7 +5,8 @@ Cyber_Security_- Network_Intrusion
 
 This project focuses on Network Intrusion Detection using Machine Learning techniques. The dataset used in this project is highly imbalanced, with the majority of samples belonging to the "Normal" class and very few belonging to specific attack categories.
 
-[Attack_Distribution](Attack_Type_Distribution.png)
+[!Attack_Distribution](Attack_Type_Distribution.png)
+[!Protocol_Type_Distribution](Protocol_Type_Distribution.png)
 
 🔍 Classification Approaches
 
